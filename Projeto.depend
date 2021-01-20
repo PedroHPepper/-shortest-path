@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1555629182 source:c:\users\pedro\desktop\projeto\main.cpp
+	<iostream>
+	<Caminho.h>
+
+1555615331 c:\users\pedro\desktop\projeto\include\caminho.h
+
+1555615337 source:c:\users\pedro\desktop\projeto\src\caminho.cpp
+	"Caminho.h"
+
+1555629182 source:d:\google drive\projetos\projeto medway\c++\projeto\main.cpp
+	<iostream>
+	<Caminho.h>
+
+1559080069 d:\google drive\projetos\projeto medway\c++\projeto\include\caminho.h
+
+1559079810 source:d:\google drive\projetos\projeto medway\c++\projeto\src\caminho.cpp
+	"Caminho.h"
+
